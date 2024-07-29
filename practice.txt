@@ -1,0 +1,7 @@
+commands
+init
+status
+commit
+diff
+branch
+file Storaging
