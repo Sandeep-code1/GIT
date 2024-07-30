@@ -6,13 +6,12 @@ diff
 branch
 file Storaging
 
+adding some more information
+
 sf
 sfdf
 difff
 
-<<<<<<< Updated upstream
 
 new change
-=======
 laddu change
->>>>>>> Stashed changes
